@@ -1,0 +1,31 @@
+<html>
+<style>  
+    .card { 
+      width: 300px;
+      padding: 20px;
+      background:rgb(245, 241, 241);
+      border-radius: 15px;
+      box-shadow: 0 2px 8px rgba(252, 249, 249, 0.1); place-self: center;
+    }
+    .card img {
+      width: 250px;height: 330px;
+      border-radius: 20px;
+    }
+    .social-links a { 
+      margin:  6 5px;
+      color: #2f00ff;
+    }
+  </style>
+  <body>
+    <div class="card">
+  <img src="IMG-20250514-WA0005[1].jpg">
+  <h2>A.MANINDHRA</h2>
+  <p>For You I Was A Chapter For Me, You Were The Book</p>
+  <div class="social-links">
+    <a href="#">Pinterest</a>
+    <a href="#">LinkedIn</a>
+    <a href="#">GitHub</a>
+  </div>
+</div>
+</body>
+</html>
